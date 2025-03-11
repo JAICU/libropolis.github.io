@@ -1,0 +1,20 @@
+[01-Mar-2025 14:22:18 America/Mexico_City] PHP Warning:  require_once(/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php): Failed to open stream: No such file or directory in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:22:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:22:33 America/Mexico_City] PHP Warning:  require_once(/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php): Failed to open stream: No such file or directory in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:22:33 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:23:04 America/Mexico_City] PHP Warning:  require_once(/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php): Failed to open stream: No such file or directory in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:23:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:36:32 America/Mexico_City] PHP Warning:  require_once(/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php): Failed to open stream: No such file or directory in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
+[01-Mar-2025 14:36:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '/home1/rgvconsu/soluciones-empresariales.online/librobd/srv/../lib/php/ejecutaServicio.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/rgvconsu/soluciones-empresariales.online/librobd/srv/libros.php on line 3
